@@ -39,7 +39,7 @@ This repository is a collection of small IoT projects built on a **Raspberry Pi*
 ## 🔌 Wiring
 
 <p align="center">
-  <img src="images/raspberry-pi-setup.png" alt="Wiring diagram: Raspberry Pi connected to a DHT11 sensor" width="700" />
+  <img src="P pi setup.png" alt="Wiring diagram: Raspberry Pi connected to a DHT11 sensor" width="700" />
 </p>
 
 | DHT11 Pin | Raspberry Pi Pin | Wire colour |
