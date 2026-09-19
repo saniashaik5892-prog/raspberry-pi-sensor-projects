@@ -1,0 +1,5 @@
+# Raspberry Pi Sensor Projects
+# Python dependencies
+
+Adafruit-DHT==1.4.0
+RPi.GPIO==0.7.1
