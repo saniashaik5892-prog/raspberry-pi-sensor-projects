@@ -2,7 +2,7 @@
 
 <p align="center">
   Real-time data collection and monitoring with Raspberry Pi, sensors and Python.
-</p>
+</p>  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
