@@ -1,5 +1,5 @@
 <h1 align="center">🍓 Raspberry Pi Sensor Projects</h1>
-
+  
 <p align="center">
   Real-time data collection and monitoring with Raspberry Pi, sensors and Python.
 </p>  
